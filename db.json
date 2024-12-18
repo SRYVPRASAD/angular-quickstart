@@ -1,0 +1,60 @@
+{
+  "siteInfo": {
+    "name": "Demo Site",
+    "url": "https://www.example.com",
+    "description": "A sample JSON file for demonstration purposes."
+  },
+  "user": {
+    "id": 101,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "isVerified": true,
+    "roles": ["admin", "editor"],
+    "profile": {
+      "age": 30,
+      "gender": "male",
+      "address": {
+        "street": "123 Main St",
+        "city": "Metropolis",
+        "country": "USA",
+        "postalCode": "12345"
+      }
+    }
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 59.99,
+      "tags": ["electronics", "audio", "wireless"],
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "price": 699.99,
+      "tags": ["electronics", "mobile"],
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "title": "Coffee Mug",
+      "price": 12.99,
+      "tags": ["kitchen", "drinkware"],
+      "inStock": true
+    }
+  ],
+  "settings": {
+    "theme": "dark",
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "language": "en-US"
+  },
+  "analytics": {
+    "visitors": 2547,
+    "pageViews": 7530,
+    "bounceRate": 0.35
+  }
+}
