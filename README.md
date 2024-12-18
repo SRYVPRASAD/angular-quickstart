@@ -126,3 +126,7 @@ Hope this template helps :) Happy coding 👩🏻‍💻!
 ---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+
+Hosted & Deployed
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/e92bf5e0-a3eb-45f8-948a-c2276499a409/deploy-status)](https://app.netlify.com/sites/ng-quickstart/deploys)
+- https://ng-quickstart.netlify.app/
